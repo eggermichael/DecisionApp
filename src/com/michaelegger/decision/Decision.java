@@ -3,11 +3,8 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.michaelegger.decisionapp;
+package com.michaelegger.decision;
 
-import com.michaelegger.decision.Category;
-import com.michaelegger.decision.Microdecision;
-import com.michaelegger.decision.Option;
 import java.util.ArrayList;
 import java.util.Collections;
 

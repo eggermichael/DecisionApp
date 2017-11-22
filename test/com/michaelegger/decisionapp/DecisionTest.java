@@ -5,13 +5,12 @@
  */
 package com.michaelegger.decisionapp;
 
+import com.michaelegger.decision.Decision;
 import com.michaelegger.decision.Category;
 import com.michaelegger.decision.Microdecision;
 import com.michaelegger.decision.Option;
 import java.lang.reflect.Field;
 import java.util.ArrayList;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;

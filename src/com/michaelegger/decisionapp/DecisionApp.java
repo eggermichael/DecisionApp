@@ -5,14 +5,13 @@
  */
 package com.michaelegger.decisionapp;
 
+import com.michaelegger.decision.Decision;
 import com.michaelegger.decision.Category;
 import com.michaelegger.decision.Microdecision;
 import com.michaelegger.decision.Option;
 import java.io.BufferedReader;
-import java.io.Console;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.HashSet;
 
 /**
  *
